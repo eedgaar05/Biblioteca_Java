@@ -2,7 +2,7 @@
 Indice: <br>
 * Explicación del proyecto <br>
 * Explicación de metodos <br>
-* Conclusión y opiniones
+* Opinion <br>
 
 # Explicación del proyecto
 <p>
