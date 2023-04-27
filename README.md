@@ -2,6 +2,7 @@
 Indice: <br>
 * Explicación del proyecto <br>
 * Explicación de metodos <br>
+* Conclusión y opiniones
 
 # Explicación del proyecto
 <p>
@@ -51,4 +52,9 @@ Reserva():la función de reserva de un libro para un usuario. Primero se solicit
 
 Devolver(): se encarga de permitir a un usuario devolver un libro que había reservado previamente. Primero, se pide al usuario que ingrese su nombre y contraseña para verificar su identidad. Luego, se busca en la lista de usuarios el usuario correspondiente a esos datos y se verifica si tiene reservas disponibles. Si es así, se le solicita que ingrese el título del libro que desea devolver y se busca en la lista de libros para encontrarlo. Si se encuentra el libro, se incrementa el número de copias disponibles del libro en uno y se actualiza la información del usuario para reflejar que ha devuelto un libro. Si el usuario no tiene reservas disponibles, se le notifica que no puede devolver más libros. Si no se encuentra al usuario en la lista de usuarios, se le notifica que su usuario o contraseña son incorrectos.<br>
 <br>
+</p>
+
+# Opinion
+<p>
+Mi opinion respecto a este proyecto es que ha sido un tanto desconcertante a la par que decepcionante, desconcertante ya que el apartado A esta a mi parecer muy bien explicado ya que te dice que tienes que hacer en todo momento como seguramente lo haría una empresa, sin embargo el apartado B solo es un amasijo incongruentes de clases y metodos que lo unico que hacen es contradecir con el apartado A, me da la sensacion como que el apartado A ha sido escrito por una persona y el apartado B simplemente ha sido un intento fallido de continuar con el ejercicio, todo eso por una parte, por otra parte me ha parecido decepcionante ya que al comenzar con el proyecto puedes hacerte todo el apartado A completo y del tirón, en cambio una vez empiezas el apartado B al ver todas las incoherencias te entra un sentimiento de indecision y frustacion que provoca que aborrezcas el proyecto por completo.
 </p>
